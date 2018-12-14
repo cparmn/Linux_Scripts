@@ -80,7 +80,7 @@ else
 		fi
 		systemctl restart sssd
 	else
-		echo "Already Joined to Stormontvail.org"
+		echo "Already Joined to $DOMAIN"
 	fi
 
 
